@@ -4,6 +4,9 @@ Todo Manager App is a React-based application designed for managing daily tasks.
 
 This application is built with React for the frontend and styled with CSS, ensuring a modern and intuitive task management experience.
 
+Here's a preview of the application:
+
+![Capture](https://github.com/oanasabau1/Todo-Application/assets/115418520/f521cf18-0a77-43b9-bf55-95a6ed8a011d)
 
 ## Getting Started with Create React App
 
