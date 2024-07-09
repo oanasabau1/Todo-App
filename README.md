@@ -1,8 +1,12 @@
 # Todo Application
 
-Todo Manager App is a React-based application designed for managing daily tasks. Users can add, delete, and track tasks using an interactive table view. Key features include task management, interactive UI (delete tasks with a striking-through animation effect), and custom styling by utilizing Google Fonts API for enhanced typography.
+Todo App is a React-based application designed for managing daily tasks. 
+
+User can add, delete, and track tasks using an interactive table view. Key features include task management, interactive UI (delete tasks with a striking-through animation effect), and custom styling by utilizing Google Fonts API for enhanced typography.
 
 This application is built with React for the frontend and styled with CSS, ensuring a modern and intuitive task management experience.
+
+Through building this application, I've deepened my understanding of React by working with its component-based architecture, state management, props passing, and handling user interactions through event mechanisms. Implementing conditional rendering has allowed me to create dynamic user interfaces that adapt based on application state.
 
 Here's a preview of the application:
 
