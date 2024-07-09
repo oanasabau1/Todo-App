@@ -10,7 +10,7 @@ Through building this application, I've deepened my understanding of React by wo
 
 Here's a preview of the application:
 
-![Capture](https://github.com/oanasabau1/Todo-Application/assets/115418520/f521cf18-0a77-43b9-bf55-95a6ed8a011d)
+![Capture](https://github.com/oanasabau1/Todo-App/assets/115418520/dd4ecc75-b94f-468e-b60c-4cbd2674a5b6)
 
 ## Getting Started with Create React App
 
