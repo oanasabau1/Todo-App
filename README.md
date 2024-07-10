@@ -1,4 +1,4 @@
-# Todo Application
+# Todo App
 
 Todo App is a React-based application designed for managing daily tasks. 
 
